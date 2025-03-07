@@ -7,7 +7,7 @@
 [![Issues][issues-shield]][issues-url]
 
 <a href="https://github.com/nahyoomi/green-fork">
-  <img width="300px" src="/src/assets/icons/logo.svg" alt="Logo" width="800" />
+  <img width="300px" src="logo.svg" alt="Logo" width="800" />
 </a>
 
 ## Green Fork
